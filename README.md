@@ -574,11 +574,34 @@ The implementation is designed to support:
 
 ---
 
-# Legal Notice
+
+---
+
+# Credits
+
+The development, architecture, and evaluation of this project were completed by the following core research and engineering contributors:
+
+* Utsab Das
+* Aryan Kumar
+* Manjunath Kolla
+* Pragya Kumari
+
+---
+
+# Legal Notice & License
 
 This repository may contain material associated with a pending or future patent application.
 
 Unauthorized commercial use, reproduction, or derivative implementation of the inventive concepts described herein may be subject to intellectual property protections under applicable patent laws.
+
+## Software License
+
+The open-source computational proof-of-concept and simulation framework accompanying this project are licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+Under the terms of the AGPL-3.0, any modified versions or derivative implementations of this source code, if hosted on a network server or run remotely, must be made visible and completely available as open-source code to anyone interacting with it over the network.
+
+Refer to the accompanying LICENSE file for full terms and conditions.
+
 
 ---
 
